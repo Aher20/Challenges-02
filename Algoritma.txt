@@ -1,0 +1,10 @@
+Program dimulai dengan meminta pengguna memasukkan nilai siswa.
+Kemudian, program akan mengambil input nilai siswa dari pengguna dan menyimpannya ke dalam array.
+Setelah itu, program akan mengecek kondisi nilai siswa.
+Selanjutnya, program akan mengurutkan nilai siswa dari yang tertinggi menuju nilai terendah.
+Program akan menghitung total nilai siswa dan menghitung rata-ratanya. 
+Program akan menacari nilai siswa tertinggi dan nilai siswa terendah.
+Program akan menghitung jumlah siswa yang lulus dan tidak lulus.
+Program juga akan mencari nilai siswa yang bernilai 90 dan 100.
+Terakhir, program akan menampilkan hasil outputnya dari seluruh proses yang dilakukan
+Program pun selesai.
